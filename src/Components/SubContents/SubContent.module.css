@@ -1,0 +1,11 @@
+.SubContent {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 7.5px;
+    vertical-align: top;
+
+}
